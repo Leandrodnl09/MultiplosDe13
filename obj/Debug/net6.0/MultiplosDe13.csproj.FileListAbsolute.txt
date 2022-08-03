@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\bin\Debug\net6.0\MultiplosDe13.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\refint\MultiplosDe13.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\MultiplosDe13.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MultiplosDe13\obj\Debug\net6.0\ref\MultiplosDe13.dll
